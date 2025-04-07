@@ -9,3 +9,8 @@ if n%2 != 0:
         print("Not Weird")    
     else:
         print("Not Weird")
+
+ a = int(input())
+    b = int(input())
+    print(a//b)
+    print(a/b)
